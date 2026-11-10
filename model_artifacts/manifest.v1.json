@@ -1,0 +1,57 @@
+{
+  "model_version": "v1",
+  "algorithm": "logistic_C02",
+  "run_id": "offline-logistic_C02",
+  "dataset_version": "prestamos_entrenamiento_v1",
+  "data_sha256": "c6cdc437c3aecc9116bc8b978df421d5a7600634c1ad7d6f82e58222a2446ecd",
+  "features": [
+    "ingresos_mensuales_cop",
+    "obligaciones_mensuales_cop",
+    "antiguedad_laboral_meses",
+    "meses_historial_crediticio",
+    "creditos_previos",
+    "atrasos_previos_30d",
+    "porcentaje_pago_puntual",
+    "monto_solicitado_cop",
+    "plazo_meses",
+    "cuota_estimada_cop",
+    "tipo_empleo"
+  ],
+  "positive_class": 1,
+  "threshold": 0.13,
+  "threshold_cost": 1600,
+  "fictional_costs": {
+    "aprobar_incumplidor": 5,
+    "rechazar_cumplidor": 1
+  },
+  "validation_mean_probability": 0.3064656575813756,
+  "metrics": {
+    "val_precision": 0.6153846153846154,
+    "val_recall": 0.2291950886766712,
+    "val_f1": 0.33399602385685884,
+    "val_roc_auc": 0.6814931693061115,
+    "val_average_precision": 0.5074385788325715,
+    "val_brier": 0.19154000696759213,
+    "test_precision": 0.6199261992619927,
+    "test_recall": 0.2291950886766712,
+    "test_f1": 0.3346613545816733,
+    "test_roc_auc": 0.6898783953986829,
+    "test_average_precision": 0.5117543714338115,
+    "test_brier": 0.18996876322182932,
+    "test_confusion_matrix": [
+      [
+        180,
+        1487
+      ],
+      [
+        24,
+        709
+      ]
+    ]
+  },
+  "dependencies": {
+    "scikit_learn": "1.8.0",
+    "joblib": "1.5.3"
+  },
+  "artifact_sha256": "7328d4f92744f9470c8b6ce0e7c8ea0f3cd439f8cefb076bf31e0bf0f63e0555"
+}

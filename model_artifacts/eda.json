@@ -1,0 +1,56 @@
+{
+  "dataset": "prestamos_entrenamiento_v1",
+  "sha256": "c6cdc437c3aecc9116bc8b978df421d5a7600634c1ad7d6f82e58222a2446ecd",
+  "rows": 12000,
+  "columns": [
+    "solicitud_id",
+    "cliente_id",
+    "ingresos_mensuales_cop",
+    "obligaciones_mensuales_cop",
+    "tipo_empleo",
+    "antiguedad_laboral_meses",
+    "meses_historial_crediticio",
+    "creditos_previos",
+    "atrasos_previos_30d",
+    "porcentaje_pago_puntual",
+    "monto_solicitado_cop",
+    "plazo_meses",
+    "tasa_mensual_simulada",
+    "cuota_estimada_cop",
+    "incumplimiento_90d"
+  ],
+  "label_distribution": {
+    "0": 8333,
+    "1": 3667
+  },
+  "missing": {
+    "solicitud_id": 0,
+    "cliente_id": 0,
+    "ingresos_mensuales_cop": 0,
+    "obligaciones_mensuales_cop": 0,
+    "tipo_empleo": 93,
+    "antiguedad_laboral_meses": 91,
+    "meses_historial_crediticio": 97,
+    "creditos_previos": 0,
+    "atrasos_previos_30d": 0,
+    "porcentaje_pago_puntual": 2473,
+    "monto_solicitado_cop": 0,
+    "plazo_meses": 0,
+    "tasa_mensual_simulada": 0,
+    "cuota_estimada_cop": 0,
+    "incumplimiento_90d": 0
+  },
+  "duplicates": 0,
+  "excluded_features": [
+    "solicitud_id",
+    "cliente_id",
+    "tasa_mensual_simulada",
+    "incumplimiento_90d"
+  ],
+  "split_sizes": {
+    "train": 7200,
+    "validation": 2400,
+    "test": 2400
+  },
+  "seed": 42
+}

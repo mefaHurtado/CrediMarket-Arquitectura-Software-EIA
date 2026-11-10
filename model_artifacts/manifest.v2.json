@@ -1,0 +1,42 @@
+{
+  "model_version": "v2",
+  "algorithm": "logistic_C4",
+  "run_id": "offline-logistic_C4",
+  "dataset_version": "prestamos_entrenamiento_v1",
+  "data_sha256": "c6cdc437c3aecc9116bc8b978df421d5a7600634c1ad7d6f82e58222a2446ecd",
+  "features": [
+    "ingresos_mensuales_cop",
+    "obligaciones_mensuales_cop",
+    "antiguedad_laboral_meses",
+    "meses_historial_crediticio",
+    "creditos_previos",
+    "atrasos_previos_30d",
+    "porcentaje_pago_puntual",
+    "monto_solicitado_cop",
+    "plazo_meses",
+    "cuota_estimada_cop",
+    "tipo_empleo"
+  ],
+  "positive_class": 1,
+  "threshold": 0.12,
+  "threshold_cost": 1607,
+  "fictional_costs": {
+    "aprobar_incumplidor": 5,
+    "rechazar_cumplidor": 1
+  },
+  "validation_mean_probability": 0.3065375375033106,
+  "metrics": {
+    "val_precision": 0.604982206405694,
+    "val_recall": 0.23192360163710776,
+    "val_f1": 0.33530571992110453,
+    "val_roc_auc": 0.6815807370585909,
+    "val_average_precision": 0.5073266154020584,
+    "val_brier": 0.19155452817215757,
+    "test_confusion_matrix": null
+  },
+  "dependencies": {
+    "scikit_learn": "1.8.0",
+    "joblib": "1.5.3"
+  },
+  "artifact_sha256": "c817cbb8e50d1cd0e7f8b63709e7fbf67d8ba89fba06404bdba3bd452188bece"
+}

@@ -1,0 +1,457 @@
+[
+  {
+    "threshold": 0.05,
+    "cost": 1654,
+    "approved": 31
+  },
+  {
+    "threshold": 0.06,
+    "cost": 1650,
+    "approved": 41
+  },
+  {
+    "threshold": 0.07,
+    "cost": 1642,
+    "approved": 55
+  },
+  {
+    "threshold": 0.08,
+    "cost": 1639,
+    "approved": 76
+  },
+  {
+    "threshold": 0.09,
+    "cost": 1636,
+    "approved": 97
+  },
+  {
+    "threshold": 0.1,
+    "cost": 1617,
+    "approved": 116
+  },
+  {
+    "threshold": 0.11,
+    "cost": 1610,
+    "approved": 141
+  },
+  {
+    "threshold": 0.12,
+    "cost": 1607,
+    "approved": 168
+  },
+  {
+    "threshold": 0.13,
+    "cost": 1609,
+    "approved": 208
+  },
+  {
+    "threshold": 0.14,
+    "cost": 1607,
+    "approved": 252
+  },
+  {
+    "threshold": 0.15,
+    "cost": 1622,
+    "approved": 303
+  },
+  {
+    "threshold": 0.16,
+    "cost": 1624,
+    "approved": 355
+  },
+  {
+    "threshold": 0.17,
+    "cost": 1626,
+    "approved": 401
+  },
+  {
+    "threshold": 0.18,
+    "cost": 1623,
+    "approved": 458
+  },
+  {
+    "threshold": 0.19,
+    "cost": 1613,
+    "approved": 516
+  },
+  {
+    "threshold": 0.2,
+    "cost": 1608,
+    "approved": 593
+  },
+  {
+    "threshold": 0.21,
+    "cost": 1625,
+    "approved": 672
+  },
+  {
+    "threshold": 0.22,
+    "cost": 1675,
+    "approved": 778
+  },
+  {
+    "threshold": 0.23,
+    "cost": 1721,
+    "approved": 852
+  },
+  {
+    "threshold": 0.24,
+    "cost": 1759,
+    "approved": 922
+  },
+  {
+    "threshold": 0.25,
+    "cost": 1776,
+    "approved": 1001
+  },
+  {
+    "threshold": 0.26,
+    "cost": 1813,
+    "approved": 1078
+  },
+  {
+    "threshold": 0.27,
+    "cost": 1823,
+    "approved": 1146
+  },
+  {
+    "threshold": 0.28,
+    "cost": 1872,
+    "approved": 1223
+  },
+  {
+    "threshold": 0.29,
+    "cost": 1932,
+    "approved": 1295
+  },
+  {
+    "threshold": 0.3,
+    "cost": 1991,
+    "approved": 1362
+  },
+  {
+    "threshold": 0.31,
+    "cost": 2029,
+    "approved": 1420
+  },
+  {
+    "threshold": 0.32,
+    "cost": 2110,
+    "approved": 1477
+  },
+  {
+    "threshold": 0.33,
+    "cost": 2195,
+    "approved": 1548
+  },
+  {
+    "threshold": 0.34,
+    "cost": 2241,
+    "approved": 1598
+  },
+  {
+    "threshold": 0.35,
+    "cost": 2295,
+    "approved": 1652
+  },
+  {
+    "threshold": 0.36,
+    "cost": 2342,
+    "approved": 1701
+  },
+  {
+    "threshold": 0.37,
+    "cost": 2409,
+    "approved": 1754
+  },
+  {
+    "threshold": 0.38,
+    "cost": 2492,
+    "approved": 1797
+  },
+  {
+    "threshold": 0.39,
+    "cost": 2549,
+    "approved": 1836
+  },
+  {
+    "threshold": 0.4,
+    "cost": 2592,
+    "approved": 1877
+  },
+  {
+    "threshold": 0.41,
+    "cost": 2635,
+    "approved": 1906
+  },
+  {
+    "threshold": 0.42,
+    "cost": 2669,
+    "approved": 1932
+  },
+  {
+    "threshold": 0.43,
+    "cost": 2714,
+    "approved": 1959
+  },
+  {
+    "threshold": 0.44,
+    "cost": 2726,
+    "approved": 1983
+  },
+  {
+    "threshold": 0.45,
+    "cost": 2782,
+    "approved": 2011
+  },
+  {
+    "threshold": 0.46,
+    "cost": 2808,
+    "approved": 2033
+  },
+  {
+    "threshold": 0.47,
+    "cost": 2848,
+    "approved": 2065
+  },
+  {
+    "threshold": 0.48,
+    "cost": 2869,
+    "approved": 2086
+  },
+  {
+    "threshold": 0.49,
+    "cost": 2894,
+    "approved": 2103
+  },
+  {
+    "threshold": 0.5,
+    "cost": 2926,
+    "approved": 2119
+  },
+  {
+    "threshold": 0.51,
+    "cost": 2948,
+    "approved": 2145
+  },
+  {
+    "threshold": 0.52,
+    "cost": 2964,
+    "approved": 2159
+  },
+  {
+    "threshold": 0.53,
+    "cost": 2995,
+    "approved": 2176
+  },
+  {
+    "threshold": 0.54,
+    "cost": 3043,
+    "approved": 2194
+  },
+  {
+    "threshold": 0.55,
+    "cost": 3074,
+    "approved": 2205
+  },
+  {
+    "threshold": 0.56,
+    "cost": 3091,
+    "approved": 2212
+  },
+  {
+    "threshold": 0.57,
+    "cost": 3141,
+    "approved": 2228
+  },
+  {
+    "threshold": 0.58,
+    "cost": 3176,
+    "approved": 2247
+  },
+  {
+    "threshold": 0.59,
+    "cost": 3194,
+    "approved": 2253
+  },
+  {
+    "threshold": 0.6,
+    "cost": 3239,
+    "approved": 2268
+  },
+  {
+    "threshold": 0.61,
+    "cost": 3252,
+    "approved": 2273
+  },
+  {
+    "threshold": 0.62,
+    "cost": 3274,
+    "approved": 2281
+  },
+  {
+    "threshold": 0.63,
+    "cost": 3297,
+    "approved": 2288
+  },
+  {
+    "threshold": 0.64,
+    "cost": 3302,
+    "approved": 2295
+  },
+  {
+    "threshold": 0.65,
+    "cost": 3327,
+    "approved": 2306
+  },
+  {
+    "threshold": 0.66,
+    "cost": 3336,
+    "approved": 2309
+  },
+  {
+    "threshold": 0.67,
+    "cost": 3365,
+    "approved": 2316
+  },
+  {
+    "threshold": 0.68,
+    "cost": 3379,
+    "approved": 2320
+  },
+  {
+    "threshold": 0.69,
+    "cost": 3396,
+    "approved": 2327
+  },
+  {
+    "threshold": 0.7,
+    "cost": 3411,
+    "approved": 2330
+  },
+  {
+    "threshold": 0.71,
+    "cost": 3450,
+    "approved": 2339
+  },
+  {
+    "threshold": 0.72,
+    "cost": 3464,
+    "approved": 2343
+  },
+  {
+    "threshold": 0.73,
+    "cost": 3472,
+    "approved": 2347
+  },
+  {
+    "threshold": 0.74,
+    "cost": 3489,
+    "approved": 2354
+  },
+  {
+    "threshold": 0.75,
+    "cost": 3498,
+    "approved": 2357
+  },
+  {
+    "threshold": 0.76,
+    "cost": 3508,
+    "approved": 2359
+  },
+  {
+    "threshold": 0.77,
+    "cost": 3538,
+    "approved": 2365
+  },
+  {
+    "threshold": 0.78,
+    "cost": 3544,
+    "approved": 2371
+  },
+  {
+    "threshold": 0.79,
+    "cost": 3548,
+    "approved": 2373
+  },
+  {
+    "threshold": 0.8,
+    "cost": 3557,
+    "approved": 2376
+  },
+  {
+    "threshold": 0.81,
+    "cost": 3582,
+    "approved": 2381
+  },
+  {
+    "threshold": 0.82,
+    "cost": 3592,
+    "approved": 2383
+  },
+  {
+    "threshold": 0.83,
+    "cost": 3612,
+    "approved": 2387
+  },
+  {
+    "threshold": 0.84,
+    "cost": 3616,
+    "approved": 2389
+  },
+  {
+    "threshold": 0.85,
+    "cost": 3616,
+    "approved": 2389
+  },
+  {
+    "threshold": 0.86,
+    "cost": 3621,
+    "approved": 2390
+  },
+  {
+    "threshold": 0.87,
+    "cost": 3631,
+    "approved": 2392
+  },
+  {
+    "threshold": 0.88,
+    "cost": 3645,
+    "approved": 2396
+  },
+  {
+    "threshold": 0.89,
+    "cost": 3650,
+    "approved": 2397
+  },
+  {
+    "threshold": 0.9,
+    "cost": 3650,
+    "approved": 2397
+  },
+  {
+    "threshold": 0.91,
+    "cost": 3650,
+    "approved": 2397
+  },
+  {
+    "threshold": 0.92,
+    "cost": 3655,
+    "approved": 2398
+  },
+  {
+    "threshold": 0.93,
+    "cost": 3655,
+    "approved": 2398
+  },
+  {
+    "threshold": 0.94,
+    "cost": 3665,
+    "approved": 2400
+  },
+  {
+    "threshold": 0.95,
+    "cost": 3665,
+    "approved": 2400
+  }
+]

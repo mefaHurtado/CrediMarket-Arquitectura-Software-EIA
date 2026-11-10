@@ -1,0 +1,24 @@
+CREDIMARKET - TRABAJO FINAL PARTE 2
+Stefany Hurtado Marin
+
+1) Descomprime este ZIP en C:\CrediMarket.
+2) Abre Docker Desktop (con WSL2) y verifica que el motor esté activo.
+3) Haz DOBLE CLIC en INICIAR_CREDIMARKET.bat.
+4) El instalador genera .env y ACCESOS_LOCALES.txt y ejecuta Docker Compose.
+5) Abre http://localhost:8080 en tu navegador.
+6) En ACCESOS_LOCALES.txt encontrarás usuario y contraseña del admin y de 3 clientes.
+7) En http://localhost:5000 puedes mostrar MLflow.
+8) En http://localhost:15672 puedes mostrar RabbitMQ.
+9) La guía de exposición y las pruebas están en docs/GUIA_DEMO.md.
+10) Para detener sin perder datos ejecuta DETENER_WINDOWS.bat.
+
+Si algo falla, ejecuta VER_LOGS_WINDOWS.bat. También puedes abrir PowerShell
+sobre la carpeta y usar: docker compose ps ; docker compose logs --tail=150
+
+RECUERDA:
+- No necesitas programar los 4 servicios: el código ya viene incluido.
+- Se usan datos SINTÉTICOS, no créditos reales.
+- NUNCA subas .env o ACCESOS_LOCALES.txt a GitHub.
+- NO uses 'docker compose down -v' porque borra datos y experimentos.
+- El arranque de los contenedores debe verificarse en tu PC; aquí se
+  validaron lógica local y entrenamiento, NO Docker Engine completo.

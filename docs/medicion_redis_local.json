@@ -1,0 +1,11 @@
+{
+  "producto_id": "801813dc-d5e8-46bc-af53-137e984068cb",
+  "consultas": 100,
+  "latencia_p50_ms": 6.27,
+  "latencia_p95_ms": 31.74,
+  "hit_incremento": 99,
+  "miss_incremento": 1,
+  "tasa_hits_en_muestra": 0.99,
+  "fallback_incremento": 0,
+  "advertencia": "Medición de demo en máquina local, sin inferir rendimiento a escala de producción"
+}

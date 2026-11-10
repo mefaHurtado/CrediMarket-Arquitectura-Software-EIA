@@ -1,0 +1,2 @@
+-r requirements-app.txt
+mlflow==2.22.0
